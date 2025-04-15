@@ -3,4 +3,4 @@ leafmap==0.35.9
 pandas==2.2.2
 plotly==5.22.0
 streamlit==1.36.0
-micropython-pkg_resources==0.2.1
+micropython-pkg_resources
